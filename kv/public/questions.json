@@ -896,8 +896,8 @@
             "answers": [
                 {
                     "answer": "Maasikas",
-                    "correct": true,
-                    "comment": "seemned on tegelikult viljad, mille sees on seemned"
+                    "correct": false,
+                    "comment": "ainult seemned on tegelikult puuviljad"
                 },
                 {
                     "answer": "Vaarikas",
@@ -918,8 +918,8 @@
                 { "answer": "Kurk", "correct": true },
                 {
                     "answer": "Avokaado",
-                    "correct": false,
-                    "comment": "ühe seemnega mari"
+                    "correct": true,
+                    "comment": "ühe seemnega mari = puuvili"
                 },
                 {
                     "answer": "Kartul",
